@@ -5,7 +5,7 @@ html,body{
 }
 
 body{
-  background: silver;
+  background: linear-gradient(#0b5e5e,#28bcbc,#9fd3d3);
 }
 
 h2{
@@ -21,4 +21,36 @@ font-weight: 400;
 
 .bg-azul{
 background:rgba(38, 77 , 149, 1.00);
+}
+
+
+
+h1{
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 900;
+	color:silver;
+}
+
+h2{
+	border-top:2px solid white;
+	padding-top:2rem;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 900;
+	color:silver;
+}
+
+h3,h4,h5,h6{
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 700;
+  color:silver;
+}
+
+img {
+	border:2px solid white;
+}
+
+#menu{
+	position: fixed;
+	bottom:2rem;
+	right:2.5rem;
 }
