@@ -13,6 +13,7 @@ font-family: 'Quicksand', sans-serif;
 font-weight: 400;
 }
 
+
 #menu{
 	position: fixed;
 	bottom:2rem;
@@ -24,33 +25,14 @@ background:rgba(38, 77 , 149, 1.00);
 }
 
 
-
 h1{
 	font-family: 'Quicksand', sans-serif;
-	font-weight: 900;
+	font-weight: 400;
 	color:silver;
 }
 
-h2{
-	border-top:2px solid white;
-	padding-top:2rem;
+h5{
 	font-family: 'Quicksand', sans-serif;
-	font-weight: 900;
-	color:silver;
-}
-
-h3,h4,h5,h6{
-	font-family: 'Quicksand', sans-serif;
-	font-weight: 700;
+	font-weight: 400;
   color:silver;
-}
-
-img {
-	border:2px solid white;
-}
-
-#menu{
-	position: fixed;
-	bottom:2rem;
-	right:2.5rem;
 }
